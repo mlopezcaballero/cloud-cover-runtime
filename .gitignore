@@ -53,6 +53,7 @@ coverage.xml
 *.njsproj
 *.sln
 *.sw*
+*.zip
 
 # Package stuff
 src.egg-info/
@@ -64,4 +65,6 @@ submission/
 
 # Data
 runtime/data
-data/
+data
+lightning_logs
+runs
